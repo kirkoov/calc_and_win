@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.toml
+poetry.lock
+.vscode
 
 # C extensions
 *.so
@@ -127,3 +130,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
